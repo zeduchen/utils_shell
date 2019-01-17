@@ -2,13 +2,13 @@
 
 1. web_surfing
 
-   编辑定时任务：
+   校园网登录界面设置`记住密码`和`自动登录`，编辑定时任务：
 
    ```
    crontab -e
    ```
 
-   二选一：
+   Chrome浏览器和FireFox浏览器二选一，推荐用FireFox浏览器：
 
    - 使用Chrome浏览器的话，末尾添加：
 
