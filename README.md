@@ -8,7 +8,7 @@
    crontab -e
    ```
 
-   Chrome浏览器和FireFox浏览器二选一，推荐用FireFox浏览器：
+   Chrome浏览器和FireFox浏览器二选一，推荐用FireFox浏览器（如果担心浏览器清除Cookies后不会自动登录，可以两个都选）：
 
    - 使用Chrome浏览器的话，末尾添加：
 
