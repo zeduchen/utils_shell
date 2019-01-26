@@ -22,5 +22,5 @@
      * * * * * bash /home/chenzedu/code/shell/utils_shell/web_surfing_firefox.sh
      ```
 
-   注：如果视频输出信号不是来自独立显卡，而是来自主板，`web_surfin_chrome.sh`或`web_surfing_firefox.sh`脚本里的`DISPLAY=:1`改为`DISPLAY=:0`。
+   注：如果视频输出信号不是来自独立显卡，而是来自主板，`web_surfin_chrome.sh`或`web_surfing_firefox.sh`脚本里的`DISPLAY=:1`改为`DISPLAY=:0`。如果没有生效，可以在`终端`直接运行命令`bash /home/chenzedu/code/shell/utils_shell/web_surfing_chrome.sh`或`bash /home/chenzedu/code/shell/utils_shell/web_surfing_firefox.sh`试试，如果报的错误有关`DISPLAY`也同上面一样修改DISPLAY=:1`为`DISPLAY=:0`。
 
